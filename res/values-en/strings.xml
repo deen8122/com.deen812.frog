@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SimplePool!</string>
+    <string name="app_name">Frog Skok</string>
+    <string name="lang">eng</string>
+    <string name="pause">Pause</string>
+    <string name="level">Level - </string>
+    <string name="youwin">Level cleared!</string>
+      <string name="loose">You loose!</string>
+      
+        <string name="u_uprav">- Управление</string>
+          <string name="u_b">- Прыжок</string>
+          <string name="u_a">- Удар рукой</string>
+          <string name="u_bye">- Пополнение жизни</string>
+          <string name="u_a_d">- Удар ногой</string>
+          
+          <string name="demo_title">BUY the full version</string>
+          <string name="demo_text">Next - even more interesting, the new job, \n\r
+               insidious opponents. A fascinating journey \n\r 
+waiting for you!</string>
+          <string name="demo_text2">16 - 45 levels PAID $ 1 </string>
+          
+          
+           <string name="how_play_title">How play?</string>
+            <string name="how_play_text">
+             Walk with Frog Skok all \n\r 
+             obstacles grabbing different things. \n\r 
+             Collect all the stars and moves to the next \n\r 
+             level. Beware of malicious wasps and the island \n\r 
+             needle urchins and cacti. \n\r 
+             Good luck, my dear friend! =)
+            </string>
+            
+            
+             <string name="about_title">Dear Players!</string>
+            <string name="about_text">Текст с описанием игры...</string>
+            
+                <string name="rev_title">Review</string>
+                <string name="rev_btn">leave feedback</string>
+            <string name="rev_text">We really appreciate your opinion, \n\r
+                                    please leave review and rate the game.\n\r
+                  \n\r If you have suggestions or comments email \n\r
+                  us know and we will take into account \n\r 
+                  in the further development.
+                 
+                  \n\r\n\r Thanks!</string>
+            
+          <string name="demo_text3">BUY!</string>
+    <string name="about">
+        We want to thank you for being downloaded
+          \n\r 
+our game. We sincerely hope that the game \n\r
+          You will enjoy and have a nice time.
+         \n\r\n\r
+         For you tried:
+         \n\r
+         Software: Densis Stas
+         \n\r
+         Manager: Alban Nuras
+         \n\r
+         e-mail: deensgames@gmail.com
+         \n\r
+                      15 feb 2015</string>
+                     
+    
+    <string name="thanks_title">Thank you!</string>
+    <string name="thanks_text">
+          You bought the full version of the game.
+          \n\r
+          You have access to all levels.
+          \n\r
+          And now forward to the meeting
+          \n\r
+          adventure!
+          </string>
+</resources>

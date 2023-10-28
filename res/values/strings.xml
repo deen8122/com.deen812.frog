@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SimplePool!</string>
+    <string name="app_name">Лягушонок Скок</string>
+    <string name="lang">rus</string>
+    <string name="pause">Пауза</string>
+    <string name="level">Уровень - </string>
+    <string name="youwin">Уровень пройден!</string>
+      <string name="loose">Вы проиграли!</string>
+      
+        <string name="u_uprav">- Управление</string>
+          <string name="u_b">- Прыжок</string>
+          <string name="u_a">- Удар рукой</string>
+          <string name="u_bye">- Пополнение жизни</string>
+          <string name="u_a_d">- Удар ногой</string>
+          
+          <string name="demo_title">ПОКУПКА ПОЛНОЙ ВЕРСИИ ИГРЫ</string>
+          <string name="demo_text">Дальше - еще интереснее, новые задания, \n\r
+              коварные противники. Увлекательное путешествие \n\rждет тебя!</string>
+          <string name="demo_text2">16 - 45 уровни ПЛАТНЫЕ = 1 доллар</string>
+          
+          
+           <string name="how_play_title">Как играть?</string>
+            <string name="how_play_text">
+                Пройди вместе с Лягушонком Скок все \n\r
+                препядствия
+                хватясь за разные предметы. \n\r Собери все 
+                 звезды и переходи на следующий  \n\rуровень.
+                 Остерегайся злобных Ос и  Острых  \n\r  игл ежей    и кактусов.
+                 \n\rУдачи, Дорогой Друг! =)
+            </string>
+            
+            
+             <string name="about_title">Дорогой ИГРОК!</string>
+            <string name="about_text">Текст с описанием игры...</string>
+            
+                <string name="rev_title">ОТЗЫВ</string>
+                <string name="rev_btn">Оставить отзыв</string>
+            <string name="rev_text">Нам очень важно Ваше мнение, оставьте пожалуйста \n\r 
+                отзыв  и оцените игру. 
+                 \n\r Если есть пожелания или замечания напишите  \n\r
+                 нам об этом и мы это учтем при  дальнейшей разработке.
+                 
+                 \n\r \n\rСпасибо!</string>
+            
+          <string name="demo_text3">купить!</string>
+    <string name="about">Хотим поблагодарить Вас за то что скачали
+         \n\r нашу игру.  Мы искренне надеемся что игра \n\r 
+         Вам   понравится  и Вы отлично проведете время.
+        \n\r \n\r
+        Для вас старались:
+        \n\r
+        программист:  Densis Stas
+        \n\r
+        менеджер:  Alban Nuras
+        \n\r
+        e-mail:   deensgames@gmail.com
+        \n\r
+                     15 feb 2015</string>
+                     
+    
+    <string name="thanks_title">Спасибо!</string>
+    <string name="thanks_text">
+          Вы купили полную версию игры.
+         \n\r 
+         Вам доступны все уровни.
+         \n\r 
+         А теперь вперед,  на встречу 
+         \n\r 
+         к приключениям!
+          </string>
+</resources>

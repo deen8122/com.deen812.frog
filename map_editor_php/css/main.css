@@ -1,0 +1,19 @@
+body { margin:0px; padding: 0px;}
+.comteiner {
+ margin-left: 0px;
+ margin-top:0px;
+ 
+}
+
+.map { border: 1px solid #000; margin: 0px; width: 1000px; height: 900px; background-color:  #ebfbff}
+
+.button { padding: 10px; border-radius: 5px; border:1px dashed  darkblue; cursor:pointer;display:  inline-block}
+.button:hover { background-color:  #ccc}
+
+.menu { border:1px dashed  darkseagreen; padding: 10px; border-radius: 5px; box-shadow: 1px 1px 4px #ccc;width:600px; position: absolute;top:50px;left: 400px;}
+
+.input { padding: 10px; font-size: 20px; border-radius: 5px;display:  inline-block}
+
+.ready { border:2px solid  green;background-color:  olive}
+#params { width:800px; padding: 40px;}
+.zoom { font-size: 40px;}

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="3000" height="3000">
+<entity x="100" y="100"   type="Finish"/>
+<entity x="300" y="300"    type="Box1" />
+<entity x="300" y="600"    type="Box1" />
+<entity x="300" y="900"    type="Box1" />
+<entity x="300" y="1200"    type="Box1" />
+<entity x="300" y="1500"    type="Box1" />
+<entity x="300" y="1800"    type="Box1" />
+<entity x="300" y="2100"    type="Box1" />
+<entity x="300" y="2400"    type="Box1" />
+<entity x="300" y="2700"    type="Box1" />
+<entity x="300" y="2900"    type="Box1" />
+
+<entity x="600" y="300"    type="Box1" />
+<entity x="600" y="600"    type="Box1" />
+<entity x="600" y="900"    type="Box1" />
+<entity x="600" y="1200"    type="Box1" />
+<entity x="600" y="1500"    type="Box1" />
+<entity x="600" y="1800"    type="Box1" />
+<entity x="600" y="2100"    type="Box1" />
+<entity x="600" y="2400"    type="Box1" />
+<entity x="600" y="2700"    type="Box1" />
+<entity x="600" y="2900"    type="Box1" />
+
+
+<entity x="900" y="300"    type="Box1" />
+<entity x="900" y="600"    type="Box1" />
+<entity x="900" y="900"    type="Box1" />
+<entity x="900" y="1200"    type="Box1" />
+<entity x="900" y="1500"    type="Box1" />
+<entity x="900" y="1800"    type="Box1" />
+<entity x="900" y="2100"    type="Box1" />
+<entity x="900" y="2400"    type="Box1" />
+<entity x="900" y="2700"    type="Box1" />
+<entity x="900" y="2900"    type="Box1" />
+
+<entity x="1900" y="300"    type="Box1" />
+<entity x="1900" y="600"    type="Box1" />
+<entity x="1900" y="900"    type="Box1" />
+<entity x="1900" y="1200"    type="Box1" />
+<entity x="1900" y="1500"    type="Box1" />
+<entity x="1900" y="1800"    type="Box1" />
+<entity x="1900" y="2100"    type="Box1" />
+<entity x="1900" y="2400"    type="Box1" />
+<entity x="1900" y="2700"    type="Box1" />
+<entity x="1900" y="2900"    type="Box1" />
+
+
+<entity x="1400" y="300"    type="Box1" />
+<entity x="1400" y="600"    type="Box1" />
+<entity x="1400" y="900"    type="Box1" />
+<entity x="1400" y="1200"    type="Box1" />
+<entity x="1400" y="1500"    type="Box1" />
+<entity x="1400" y="1800"    type="Box1" />
+<entity x="1400" y="2100"    type="Box1" />
+<entity x="1400" y="2400"    type="Box1" />
+<entity x="1400" y="2700"    type="Box1" />
+<entity x="1400" y="2900"    type="Box1" />
+
+
+<entity x="300" y="400"    type="Box1" />
+<entity x="100" y="128"   type="Palka"/>
+<entity x="100" y="64"   type="Palka"/>
+<entity x="100" y="168"   type="Palka"/>
+<entity x="0" y="200"   type="Palka2"/>
+
+<entity x="500" y="164"   type="Osa"/>
+<entity x="1500" y="564"   type="Osa"/>
+<entity x="1500" y="664"   type="Osa"/>
+<entity x="1500" y="364"   type="Osa"/>
+<entity x="1500" y="764"   type="Osa"/>
+<entity x="1500" y="862"   type="Osa"/>
+
+
+
+
+
+
+</level>
+
+

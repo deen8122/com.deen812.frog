@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1000" height="3000"   type="1" life="3">
+<entity x="500" y="50"   type="Finish"/>
+
+
+
+
+<entity x="300" y="600"    type="Rope" />
+<entity x="600" y="600"    type="Rope" />
+<entity x="400" y="500"   type="Star"/>
+<entity x="400" y="400"   type="Star"/>
+
+<entity x="280" y="130"   type="Palka2Rot"/>
+<entity x="460" y="130"   type="Palka2Rot"/>
+<entity x="280" y="290"   type="Palka2"/>
+
+<entity x="350" y="30"   type="Osa"/>
+<entity x="360" y="30"   type="Osa"/>
+<entity x="350" y="30"   type="Osa"/>
+<entity x="350" y="30"   type="Osa"/>
+
+
+
+
+
+
+</level>
+
+

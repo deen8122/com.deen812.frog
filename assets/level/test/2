@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="2000" height="2000"  type="1" life="3">
+
+
+<entity x="1900" y="1900"   type="Finish"/>
+
+
+<entity x="300" y="300"    type="Box1" />
+<entity x="500" y="500"    type="Box1" />
+<entity x="700" y="700"    type="Box1" />
+<entity x="900" y="900"    type="Box1" />
+<entity x="900" y="1200"   type="Box1" />
+<entity x="1300" y="1600"  type="Box1" />
+<entity x="1600" y="1500"  type="Box1" />
+<entity x="1400" y="1400"  type="Box1" />
+<entity x="1600" y="1600"  type="Box1" />
+<entity x="1800" y="1800"  type="Box1" />
+<entity x="1500" y="300"    type="Box1" />
+<entity x="1000" y="300"    type="Box1" />
+
+
+<entity x="400" y="200"   type="Star"/>
+<entity x="430" y="230"   type="Star"/>
+<entity x="460" y="260"   type="Star"/>
+<entity x="490" y="390"   type="Star"/>
+<entity x="520" y="420"   type="Star"/>
+<entity x="500" y="400"   type="Star"/>
+<entity x="1500" y="1364"   type="Star"/>
+<entity x="1100" y="1400"   type="Star"/>
+
+<entity x="500" y="64"   type="Fly1"/>
+</level>

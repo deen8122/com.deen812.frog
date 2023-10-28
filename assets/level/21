@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <level width="1999" height="1999" type="1" life="3">
+	  <entity x="578" y="475"      type="Box1" />
+     <entity x="1131" y="757"      type="Box1" />
+     <entity x="1896" y="80"      type="Finish" />
+     <entity x="1719" y="400"      type="Osa" />
+     <entity x="1914" y="637"      type="Osa" />
+     <entity x="1740" y="489"      type="Osa" />
+     <entity x="1305" y="544"      type="Star" />
+     <entity x="1446" y="682"      type="Star" />
+     <entity x="1455" y="877"      type="Star" />
+     <entity x="1287" y="967"      type="Star" />
+     <entity x="1038" y="907"      type="Star" />
+     <entity x="941" y="727"      type="Star" />
+     <entity x="1074" y="550"      type="Star" />
+     <entity x="1641" y="60"      type="Palka" />
+     <entity x="1191" y="73"      type="Palka" />
+     <entity x="1557" y="997"      type="Box1" />
+     <entity x="695" y="904"      type="Box1" />
+     <entity x="610" y="199"      type="Box1" />
+     <entity x="1596" y="1136"      type="Box1" />
+     <entity x="983" y="1199"      type="Box1" />
+     <entity x="833" y="1097"      type="Box1" />
+     <entity x="410" y="60"      type="Palka" />
+     <entity x="251" y="438"      type="Box1" />
+     <entity x="386" y="10"      type="Box1" />
+     <entity x="1194" y="139"      type="Palka" />
+     </level>

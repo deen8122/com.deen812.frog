@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <level width="3000" height="2000" type="1" life="5">
+	  <entity x="778" y="476" height="60"   width="1000"  type="Platform" />
+     <entity x="782" y="268" height="60"   width="1000"  type="Platform" />
+     <entity x="1390" y="742" height="60"   width="1000"  type="Platform" />
+     <entity x="1014" y="1084"      type="Finish" />
+     <entity x="2002" y="472" height="60"   width="1000"  type="Platform" />
+     <entity x="1782" y="268" height="60"   width="1000"  type="Platform" />
+     <entity x="548" y="1002" height="60"   width="1000"  type="Platform" />
+     <entity x="2" y="742" height="60"   width="1000"  type="Platform" />
+     <entity x="220" y="568"      type="Box1" />
+     <entity x="1850" y="680"      type="Box1" />
+     <entity x="1176" y="62"      type="Palka" />
+     <entity x="1484" y="62"      type="Palka" />
+     <entity x="1736" y="62"      type="Palka" />
+     <entity x="2348" y="62"      type="Palka" />
+     <entity x="2696" y="330"      type="Palka" />
+     <entity x="936" y="808"      type="Palka" />
+     <entity x="932" y="934"      type="Palka" />
+     <entity x="936" y="870"      type="Palka" />
+     <entity x="2076" y="126"      type="Kaktus1" />
+     <entity x="2924" y="600"      type="Kaktus1" />
+     <entity x="1156" y="866"      type="Box1" />
+     <entity x="2800" y="764"      type="Box1" />
+     <entity x="1710" y="804"      type="Palka" />
+     <entity x="1724" y="1280"      type="Box1" />
+     <entity x="198" y="288"      type="Box1" />
+     <entity x="458" y="418"      type="Box1" />
+     <entity x="2116" y="634"      type="Fly1" />
+     <entity x="2000" y="1092"      type="Fly1" />
+     <entity x="1858" y="1136"      type="Fly1" />
+     <entity x="2270" y="1160"      type="Kaktus1" />
+     <entity x="2210" y="1198"      type="Fly1" />
+     <entity x="948" y="1236"      type="Fly1" />
+     <entity x="1650" y="1160"      type="Fly1" />
+     <entity x="902" y="346"      type="Star" />
+     <entity x="948" y="606"      type="Kaktus1" />
+     <entity x="2228" y="600"      type="Star" />
+     <entity x="1296" y="366"      type="Star" />
+     <entity x="1608" y="376"      type="Star" />
+     <entity x="1388" y="400"      type="Box1" />
+     <entity x="1746" y="708"      type="Rope" />
+     <entity x="1990" y="714"      type="Rope" />
+     <entity x="1354" y="722"      type="Rope" />
+     <entity x="1574" y="612"      type="Star" />
+     <entity x="1492" y="850"      type="Star" />
+     <entity x="2428" y="538"      type="Palka" />
+     <entity x="2554" y="540"      type="Palka" />
+     <entity x="1298" y="1078"      type="Star" />
+     <entity x="1350" y="1194"      type="Star" />
+     <entity x="1456" y="1084"      type="Star" />
+     <entity x="1758" y="1102"      type="Rope" />
+     <entity x="2042" y="1270"      type="Box1" />
+     <entity x="2140" y="1014"      type="Box1" />
+     <entity x="730" y="1292"      type="Box1" />
+     <entity x="1292" y="1350"      type="Box1" />
+     <entity x="786" y="1154"      type="Star" />
+     <entity x="798" y="1088"      type="Star" />
+     <entity x="410" y="1154"      type="Box1" />
+     <entity x="106" y="972"      type="Box1" />
+     <entity x="732" y="1138"      type="Star" />
+     <entity x="728" y="1060"      type="Star" />
+     </level>

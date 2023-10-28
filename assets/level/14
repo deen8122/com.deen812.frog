@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="2000" height="2000"  type="1" life="1">
+
+
+<entity x="1500" y="80"   type="Finish"/>
+<entity x="1700" y="50"   type="Palka"/>
+<entity x="1700" y="100"   type="Palka"/>
+
+
+
+
+<entity x="400" y="100"    type="Kaktus1" />
+<entity x="600" y="100"    type="Kaktus1" />
+<entity x="800" y="100"    type="Kaktus1" />
+<entity x="1000" y="100"    type="Kaktus1" />
+
+
+
+<entity x="200" y="600"   type="Rope"/>
+<entity x="600" y="600"   type="Rope"/>
+<entity x="1000" y="600"   type="Rope"/>
+<entity x="1400" y="600"   type="Rope"/>
+
+
+
+<entity x="300" y="400"   type="Star"/>
+<entity x="400" y="400"   type="Star"/>
+<entity x="500" y="400"   type="Star"/>
+<entity x="600" y="400"   type="Star"/>
+<entity x="700" y="400"   type="Star"/>
+<entity x="800" y="400"   type="Star"/>
+<entity x="900" y="400"   type="Star"/>
+<entity x="1000" y="400"   type="Star"/>
+<entity x="1100" y="400"   type="Star"/>
+<entity x="1200" y="400"   type="Star"/>
+<entity x="1300" y="400"   type="Star"/>
+<entity x="1400" y="400"   type="Star"/>
+
+
+<entity x="1100" y="600"   type="Fly1"/>
+
+
+</level>

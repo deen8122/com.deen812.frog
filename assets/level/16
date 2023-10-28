@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <level width="2000" height="2900" type="1" life="5">
+    <entity x="1700" y="80"   type="Finish"/>
+    <entity x="1500" y="62"    type="Palka" />
+    
+	  <entity x="238" y="82"    type="Palka2" />
+     <entity x="244" y="288"    type="Palka2Rot" />
+     <entity x="234" y="62"    type="Palka" />
+     <entity x="390" y="62"    type="Palka" />
+     <entity x="310" y="48"    type="Osa" />
+     <entity x="406" y="286"    type="Palka2Rot" />
+     <entity x="240" y="312"    type="Palka2" />
+     <entity x="306" y="376"    type="Palka" />
+     
+     
+       <entity x="316" y="600"    type="Star" />
+       <entity x="316" y="206"    type="Star" />
+       <entity x="316" y="800"    type="Star" />
+       
+       
+     <entity x="535" y="818"    type="Box1" />
+       <entity x="535" y="1018"    type="Box1" />
+     <entity x="49" y="488"    type="Box1" />
+     <entity x="246" y="574"    type="Box1" />
+     <entity x="452" y="520"    type="Box1" />
+     <entity x="286" y="226"    type="Osa" />
+     <entity x="360" y="248"    type="Osa" />
+     <entity x="296" y="264"    type="Osa" />
+     <entity x="306" y="152"    type="Osa" />
+     <entity x="350" y="164"    type="Osa" />
+     <entity x="274" y="164"    type="Osa" />
+     <entity x="310" y="440"    type="Palka" />
+
+     </level>

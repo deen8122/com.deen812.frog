@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1900" height="2000"  >
+
+<entity x="1500" y="80"   type="Finish"/>
+
+<entity x="50" y="400"    type="Box1" />
+<entity x="185" y="390"   type="Palka"/>
+<entity x="200" y="330"   type="Palka2Rot"/>
+
+
+<entity x="285" y="390"   type="Palka"/>
+<entity x="300" y="330"   type="Palka2Rot"/>
+
+
+<entity x="385" y="390"   type="Palka"/>
+<entity x="400" y="330"   type="Palka2Rot"/>
+
+
+<entity x="485" y="390"   type="Palka"/>
+<entity x="500" y="330"   type="Palka2Rot"/>
+
+
+<entity x="585" y="390"   type="Palka"/>
+<entity x="600" y="330"   type="Palka2Rot"/>
+
+
+<entity x="685" y="390"   type="Palka"/>
+<entity x="700" y="330"   type="Palka2Rot"/>
+
+
+<entity x="785" y="390"   type="Palka"/>
+<entity x="800" y="330"   type="Palka2Rot"/>
+
+
+<entity x="885" y="390"   type="Palka"/>
+<entity x="900" y="330"   type="Palka2Rot"/>
+
+<entity x="1000" y="350"   type="Star"/>
+
+<entity x="1085" y="390"   type="Palka"/>
+<entity x="1100" y="330"   type="Palka2Rot"/>
+
+<entity x="1185" y="390"   type="Palka"/>
+<entity x="1200" y="330"   type="Palka2Rot"/>
+
+<entity x="1285" y="390"   type="Palka"/>
+<entity x="1300" y="330"   type="Palka2Rot"/>
+
+<entity x="1385" y="390"   type="Palka"/>
+<entity x="1400" y="330"   type="Palka2Rot"/>
+
+
+
+
+
+<entity x="100" y="150"   type="Star"/>
+
+
+
+</level>
+
+

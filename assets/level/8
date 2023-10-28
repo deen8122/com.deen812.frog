@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="2000" height="2000"  type="1" life="2">
+<entity x="1700" y="50"   type="Finish"/>
+
+
+<entity x="400" y="500"    type="Ropebad" />
+<entity x="800" y="500"    type="Ropebad" />
+<entity x="1200" y="500"    type="Ropebad" />
+<entity x="1600" y="500"    type="Ropebad" />
+
+<entity x="400" y="50"   type="Palka"/>
+<entity x="800" y="50"   type="Palka"/>
+<entity x="1400" y="50"   type="Palka"/>
+<entity x="1400" y="70"   type="Palka"/>
+<entity x="600" y="300"   type="Star"/>
+
+<entity x="1700" y="50"   type="Palka"/>
+<entity x="1700" y="70"   type="Palka"/>
+
+
+
+
+
+
+
+
+</level>
+
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1000" height="2000">
+
+<entity x="600" y="50"   type="Finish"/>
+
+<entity x="500" y="50"   type="Palka"/>
+<entity x="700" y="50"   type="Palka"/>
+
+<entity x="300" y="350"    type="Box1" />
+
+<entity x="150" y="350"   type="Star"/>
+<entity x="500" y="350"   type="Star"/>
+<entity x="300" y="500"   type="Star"/>
+
+
+
+
+
+
+
+</level>
+
+

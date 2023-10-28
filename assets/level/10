@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1600" height="3000" type="1" life="3">
+<entity x="1100" y="50"   type="Finish"/>
+
+<entity x="1300" y="100"   type="Palka2"/>
+<entity x="1300" y="80"   type="Palka2"/>
+<entity x="1300" y="50"   type="Palka2"/>
+
+
+<entity x="300" y="600"    type="Rope" />
+<entity x="700" y="600"    type="Rope" />
+<entity x="570" y="1100"    type="Rope" />
+
+<entity x="570" y="50"   type="Star"/>
+<entity x="570" y="250"   type="Star"/>
+<entity x="1000" y="50"   type="Star"/>
+
+
+
+<entity x="800" y="600"    type="Ropebad" />
+<entity x="500" y="600"    type="Box1" />
+
+
+
+
+
+
+<entity x="680" y="130"   type="Palka2Rot"/>
+<entity x="860" y="130"   type="Palka2Rot"/>
+<entity x="680" y="260"   type="Palka2"/>
+
+<entity x="750" y="30"   type="Osa"/>
+<entity x="760" y="30"   type="Osa"/>
+<entity x="750" y="30"   type="Osa"/>
+
+
+
+<entity x="280" y="130"   type="Palka2Rot"/>
+<entity x="460" y="130"   type="Palka2Rot"/>
+<entity x="280" y="260"   type="Palka2"/>
+
+<entity x="350" y="30"   type="Osa"/>
+<entity x="360" y="30"   type="Osa"/>
+<entity x="350" y="30"   type="Osa"/>
+
+
+
+
+
+
+
+</level>
+
+

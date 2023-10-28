@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <level width="1000" height="900">
+	  <entity x="2" y="314" height="50"   width="100"  type="Platform" />
+     <entity x="168" y="320" height="50"   width="200"  type="Platform" />
+     <entity x="88" y="212" height="50"   width="400"  type="Platform" />
+     </level>

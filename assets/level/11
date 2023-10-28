@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1700" height="4000"  type="1" life="3">
+
+
+<entity x="490" y="80"   type="Finish"/>
+
+
+
+<entity x="200" y="700"    type="Box1" />
+<entity x="200" y="1000"    type="Box1" />
+<entity x="200" y="1300"    type="Box1" />
+<entity x="200" y="1600"    type="Box1" />
+<entity x="200" y="1900"    type="Box1" />
+<entity x="200" y="2200"    type="Box1" />
+<entity x="200" y="2500"    type="Box1" />
+<entity x="200" y="2800"    type="Box1" />
+<entity x="200" y="3100"    type="Box1" />
+
+
+<entity x="600" y="400"    type="Box1" />
+<entity x="600" y="700"    type="Box1" />
+<entity x="600" y="1000"    type="Box1" />
+<entity x="600" y="1300"    type="Box1" />
+<entity x="600" y="1600"    type="Box1" />
+<entity x="600" y="1900"    type="Box1" />
+<entity x="600" y="2200"    type="Box1" />
+<entity x="600" y="2500"    type="Box1" />
+<entity x="600" y="2800"    type="Box1" />
+<entity x="600" y="3100"    type="Box1" />
+
+
+<entity x="1000" y="400"    type="Box1" />
+<entity x="1000" y="700"    type="Box1" />
+<entity x="1000" y="1000"    type="Box1" />
+<entity x="1000" y="1300"    type="Box1" />
+<entity x="1000" y="1600"    type="Box1" />
+<entity x="1000" y="1900"    type="Box1" />
+<entity x="1000" y="2200"    type="Box1" />
+<entity x="1000" y="2500"    type="Box1" />
+<entity x="1000" y="2800"    type="Box1" />
+<entity x="1000" y="3100"    type="Box1" />
+
+
+<entity x="1400" y="400"    type="Box1" />
+<entity x="1400" y="700"    type="Box1" />
+<entity x="1400" y="1000"    type="Box1" />
+<entity x="1400" y="1300"    type="Box1" />
+<entity x="1400" y="1600"    type="Box1" />
+<entity x="1400" y="1900"    type="Box1" />
+<entity x="1400" y="2200"    type="Box1" />
+<entity x="1400" y="2500"    type="Box1" />
+<entity x="1400" y="2800"    type="Box1" />
+<entity x="1400" y="3100"    type="Box1" />
+
+
+<entity x="400" y="600"   type="Star"/>
+<entity x="400" y="1200"   type="Star"/>
+<entity x="400" y="1800"   type="Star"/>
+<entity x="400" y="2400"   type="Star"/>
+
+<entity x="1200" y="600"   type="Star"/>
+<entity x="1200" y="1200"   type="Star"/>
+<entity x="1200" y="1800"   type="Star"/>
+<entity x="1200" y="2400"   type="Star"/>
+
+
+
+<entity x="200" y="50"   type="Palka"/>
+<entity x="380" y="50"   type="Palka"/>
+<entity x="200" y="100"   type="Palka"/>
+<entity x="380" y="100"   type="Palka"/>
+
+<entity x="200" y="110"   type="Palka2"/>
+
+<entity x="350" y="30"   type="Osa"/>
+<entity x="360" y="30"   type="Osa"/>
+
+
+
+<entity x="280" y="380"   type="Palka2Rot"/>
+<entity x="380" y="380"   type="Palka2Rot"/>
+<entity x="280" y="390"   type="Palka2"/>
+
+<entity x="350" y="330"   type="Osa"/>
+<entity x="360" y="330"   type="Osa"/>
+
+
+
+
+
+
+
+</level>
+
+
